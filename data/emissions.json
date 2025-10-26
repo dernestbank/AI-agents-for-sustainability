@@ -1,0 +1,38 @@
+[
+  {
+    "date": "2025-01-15",
+    "scope": "Scope 2",
+    "category": "Electricity",
+    "activity": "Office Electricity",
+    "quantity": 1000.0,
+    "unit": "kWh",
+    "emission_factor": 0.82,
+    "emissions_kgCO2e": 820.0,
+    "notes": "Monthly electricity bill",
+    "business_unit": "Corporate",
+    "project": "Carbon Reduction Initiative",
+    "country": "India",
+    "facility": "Mumbai HQ",
+    "responsible_person": "Rahul Sharma",
+    "data_quality": "High",
+    "verification_status": "Internally Verified"
+  },
+  {
+    "date": "2025-01-20",
+    "scope": "Scope 1",
+    "category": "Mobile Combustion",
+    "activity": "Company Vehicle",
+    "quantity": 50.0,
+    "unit": "liter",
+    "emission_factor": 2.31495,
+    "emissions_kgCO2e": 115.7475,
+    "notes": "Fleet vehicle fuel consumption",
+    "business_unit": "Logistics",
+    "project": "Operational",
+    "country": "United States",
+    "facility": "Chicago Distribution Center",
+    "responsible_person": "John Smith",
+    "data_quality": "Medium",
+    "verification_status": "Unverified"
+  }
+]
